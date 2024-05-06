@@ -1,8 +1,8 @@
-# MedAssist - A friend in need
+# Care Link - A friend in need
 
 
 
-Welcome to the **MedAssist** – your lifeline in critical situations. This app is your indispensable companion, providing vital first aid information and powerful features to guide you through emergencies with confidence. Offering complete voice control, offline functionality, and location tracking, it's your trusted ally when every moment counts.
+Welcome to the **Care Link** – your lifeline in critical situations. This app is your indispensable companion, providing vital first aid information and powerful features to guide you through emergencies with confidence. Offering complete voice control, offline functionality, and location tracking, it's your trusted ally when every moment counts.
 
 ## Table of Contents
 
