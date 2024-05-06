@@ -14,7 +14,7 @@ export default function SplashScreen() {
           />
         </View>
         <View className="absolute top-[60%]">
-          <Text className="text-5xl text-center text-white">MedAssist</Text>
+          <Text className="text-5xl text-center text-white">Care Link 360</Text>
           <Text
             style={{fontFamily: 'cursive', fontWeight: 'bold'}}
             className="text-xl text-white">
